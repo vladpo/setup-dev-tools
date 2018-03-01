@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo apt-get -y install maven
+sudo yum -y install maven
